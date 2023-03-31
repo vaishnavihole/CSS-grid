@@ -3,10 +3,12 @@
    height: 700px;
    width: 900px;
    display: grid;
+   grid-template-rows: 133px 133px 133px;
+   grid-template-columns: 133px 133px 133px;
 }
 
 .item{
-     background-color: aqua;
+     background-color: black;
      height: 122px;
      width: 122px;
 }
