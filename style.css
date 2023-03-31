@@ -1,0 +1,11 @@
+.container{
+   background-color: red;
+   height: 700px;
+   width: 900px;
+}
+
+.item{
+     background-color: aqua;
+     height: 122px;
+     width: 122px;
+}
