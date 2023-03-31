@@ -2,6 +2,7 @@
    background-color: red;
    height: 700px;
    width: 900px;
+   display: grid;
 }
 
 .item{
