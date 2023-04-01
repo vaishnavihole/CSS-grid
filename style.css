@@ -23,7 +23,8 @@
    margin-top: 20px;
    height: 400px;
   /* align-content: center; */
-  align-content: space-evenly;
+  /* align-content: space-evenly; */
+  align-content: space-around;
    
 } 
 
