@@ -16,11 +16,13 @@
 .grid-container2{
    display: grid; 
    grid-template-columns: auto auto auto;
-  background-color: red;
+   background-color: red;
    padding: 10px;
    column-gap: 50px;
    row-gap: 50px; 
    margin-top: 20px;
+   height: 400px;
+  align-content: center;
    
 } 
 
