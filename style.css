@@ -4,8 +4,8 @@
    grid-template-columns: auto auto auto;
    background-color: #2196F3;
    padding: 10px;
-   column-gap: 50px;
-   row-gap: 50px;
+    column-gap: 50px;
+   row-gap: 50px; 
 }
 
 .grid-item{
@@ -19,3 +19,8 @@
   text-align: center;
 
 } 
+
+.item-1{
+    grid-column-start: 1;
+   grid-column-end: 4; 
+}
