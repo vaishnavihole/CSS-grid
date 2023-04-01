@@ -4,14 +4,24 @@
    grid-template-columns: auto auto auto;
    background-color: #2196F3;
    padding: 10px;
-    column-gap: 50px;
+   column-gap: 50px;
    row-gap: 50px; 
    /* justify-content: space-evenly; */
    /* justify-content: space-around; */
    /* justify-content: space-between;*/
    /* justify-content: center; */
     /* justify-content: start; */
-    justify-content: end;
+    /* justify-content: end;*/
+}  
+.grid-container2{
+   display: grid; 
+   grid-template-columns: auto auto auto;
+  background-color: red;
+   padding: 10px;
+   column-gap: 50px;
+   row-gap: 50px; 
+   margin-top: 20px;
+   
 } 
 
 .grid-item{
