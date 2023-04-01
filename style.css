@@ -25,8 +25,9 @@
   /* align-content: center; */
   /* align-content: space-evenly; */
   /* align-content: space-around; */
-  align-content: space-between;
-   
+  /* align-content: space-between; */
+  align-content: center;
+  align-content: end;
 } 
 
 .grid-item{
